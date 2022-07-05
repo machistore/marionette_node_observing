@@ -5,7 +5,7 @@ This is a test and observation of the response of each node in the Vectorworks M
 
 # DEMO
 
-https://user-images.githubusercontent.com/104885577/177262642-db8f7d09-3c30-4c28-a8b6-4488b8306db6.mp4
+https://user-images.githubusercontent.com/104885577/177432274-7a217944-14dc-4772-94a4-e5d26fcf15e8.mp4
 
 各ノードの動画は[You Tubeのプレイリスト"Vectorworks Marionetteの観察"](https://youtube.com/playlist?list=PLeuVvRLBPzuycQyxtIr8Ebr63ea8-0QUz)をご覧ください。
 
