@@ -1,7 +1,7 @@
 # marionette_node_observing
 This is a test and observation of the response of each node in the Vectorworks Marionette.
 
-ベクターワークス マリオネットの各ノードの反応を試し、観察したものです。
+ベクターワークス マリオネットの各ノードの反応を観察したものです。
 
 # DEMO
 
